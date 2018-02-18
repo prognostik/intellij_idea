@@ -1,0 +1,52 @@
+1. Install program
+2. Choose Darkula theme during installation
+3. Import the Monokai color scheme: https://darekkay.com/blog/monokai-theme-intellij/ 
+
+===================
+
+Configuring styles
+
+You can configure style settings in File -> Settings
+
+1. Set up font
+
+    1. Open File -> Settings -> Editor -> Font
+    2. Change font to 14 px  
+    3. Change line spacing to 1.1
+    4. Change font to Source Code Pro
+
+
+2. Set up general appearance
+
+    1. Open Editor -> General -> Gutter icons and disable gutter icons
+
+    2. Open Editor -> General -> Appearance and disable "Show intention bulb"
+
+    3. Open Editor -> General -> Appearance and disable "Show indent guides"
+
+    4*. Open Editor -> General -> Appearance and enable "Show method separators"
+
+    5. Open Editor -> General -> Code folding and disbale code folding
+       Optionally can disable only: 
+       "Collapse by default" 
+           - Imports
+           - One-line methods
+
+
+
+
+
+
+
+===================
+
+Other info
+
+- The console will open on first program run
+- Can open console with View -> Tool windows -> Run
+- Open project structure pane with View -> Tool window -> Project
+- Can make use of syntax completion - view options here: Editor -> General -> Postfix completion. For example: b.if -> if (b) {}
+- Toggling the icon in the left bottom corner hides and shows some trash menus
+
+
+
